@@ -46,4 +46,4 @@ proyecto-consumo-combustible/
 
 ## 📄 Licencia
 
-Este proyecto es académico y forma parte del trabajo final de carrera.
+Este proyecto es académico y forma parte del trabajo final de la carrera.
