@@ -25,6 +25,7 @@ Este proyecto implementa un sistema completo de análisis de datos para monitore
 - Scikit-learn (machine learning)
 - Jupyter Notebooks (análisis exploratorio)
 - Git & GitHub (control de versiones)
+- V0 IA para visualizacion de Dashboard
 
 ## 📁 Estructura del Proyecto
 proyecto-consumo-combustible/
