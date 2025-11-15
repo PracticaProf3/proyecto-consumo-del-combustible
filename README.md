@@ -3,11 +3,11 @@
 **Proyecto Final de Carrera**  
 Tecnicatura en Ciencias de Datos e Inteligencia Artificial | ITSE
 
-Sistema de análisis y visualización de datos de consumo de combustible que procesa métricas de eficiencia energética, genera reportes comparativos y proporciona insights para la optimización del consumo vehicular.
+Sistema de análisis y visualización de datos de consumo de combustible que procesa métricas de eficiencia energética, genera reportes comparativos y proporciona insights para la optimización del consumo vehicular del parque automotor de la municipalidad de Monte Quemado.
 
 ## 📊 Acerca del Proyecto
 
-Este proyecto implementa un sistema completo de análisis de datos para monitorear y optimizar el consumo de combustible en flotas vehiculares. Utiliza técnicas de ciencia de datos e inteligencia artificial para identificar patrones, predecir consumos y generar recomendaciones de eficiencia energética.
+Este proyecto implementa un sistema completo de análisis de datos para monitorear y optimizar el consumo de combustible en flotas vehiculares del municipio. Utiliza técnicas de ciencia de datos e inteligencia artificial para identificar patrones, predecir consumos y generar recomendaciones de eficiencia energética.
 
 ## 🚀 Características Principales
 
